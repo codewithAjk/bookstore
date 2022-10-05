@@ -10,3 +10,8 @@ D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookS
 D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\obj\Debug\net6.0\refint\BookStore.Infrastructure.dll
 D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.pdb
 D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\obj\Debug\net6.0\ref\BookStore.Infrastructure.dll
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\bin\Debug\net6.0\BookStore.Infrastructure.runtimeconfig.json
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\bin\Debug\net6.0\BookStore.Domain.dll
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\bin\Debug\net6.0\BookStore.Domain.pdb
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.csproj.CopyComplete
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.genruntimeconfig.cache

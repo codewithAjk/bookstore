@@ -1,0 +1,12 @@
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\bin\Debug\net6.0\BookStore.Infrastructure.deps.json
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\bin\Debug\net6.0\BookStore.Infrastructure.dll
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\bin\Debug\net6.0\BookStore.Infrastructure.pdb
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.csproj.AssemblyReference.cache
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.AssemblyInfoInputs.cache
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.AssemblyInfo.cs
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.csproj.CoreCompileInputs.cache
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.dll
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\obj\Debug\net6.0\refint\BookStore.Infrastructure.dll
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\obj\Debug\net6.0\BookStore.Infrastructure.pdb
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.Infrastructure\obj\Debug\net6.0\ref\BookStore.Infrastructure.dll

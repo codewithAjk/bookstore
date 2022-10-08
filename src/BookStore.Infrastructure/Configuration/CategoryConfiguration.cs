@@ -20,9 +20,9 @@ namespace BookStore.Infrastructure.Configuration
                 .IsRequired()
                 .HasColumnType("nvarchar(150)");
 
-            builder.HasMany(c => c.Books)
-                .WithOne(b => b.Category)
-                .HasForeignKey(b => b.CategoryId);
+            //builder.HasMany(c => c.Books)
+            //    .WithOne(b => b.Category)
+            //    .HasForeignKey(b => b.CategoryId);
 
             builder.ToTable("Categories");
 

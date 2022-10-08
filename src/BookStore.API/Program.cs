@@ -1,5 +1,8 @@
+using BookStore.Domain.Interface;
 using BookStore.Infrastructure.Context;
+using BookStore.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using System;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,11 +14,16 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<BookStoreDBContext>(options =>
-{
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
-});
+//builder.Services.AddDbContext<BookStoreDBContext>(options =>
+//               options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+builder.Services.AddDbContext<BookStoreDBContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddTransient<IBookRepository, BookRepository>();
+builder.Services.AddTransient<ICategoryRepository, CategoryRepository>();
+
+builder.Services.AddCors();
 
 var app = builder.Build();
 
@@ -31,5 +39,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 
 app.Run();

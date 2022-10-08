@@ -12,6 +12,6 @@ namespace BookStore.Domain.Models
 
         /* EF Relation */
 
-        public IEnumerable<Book> Books { get; set; }
+        //public IEnumerable<Book> Books { get; set; }
     }
 }

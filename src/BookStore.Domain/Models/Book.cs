@@ -17,6 +17,6 @@ namespace BookStore.Domain.Models
 
         /* EF Relation */
 
-        public Category Category { get; set; }
+        //public Category Category { get; set; }
     }
 }

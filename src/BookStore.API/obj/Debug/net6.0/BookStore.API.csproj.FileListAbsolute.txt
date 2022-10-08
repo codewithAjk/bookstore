@@ -14,7 +14,6 @@ D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookS
 D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.API\obj\Debug\net6.0\BookStore.API.AssemblyInfoInputs.cache
 D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.API\obj\Debug\net6.0\BookStore.API.AssemblyInfo.cs
 D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.API\obj\Debug\net6.0\BookStore.API.csproj.CoreCompileInputs.cache
-D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.API\obj\Debug\net6.0\BookStore.API.MvcApplicationPartsAssemblyInfo.cs
 D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.API\obj\Debug\net6.0\BookStore.API.MvcApplicationPartsAssemblyInfo.cache
 D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.API\obj\Debug\net6.0\staticwebassets.build.json
 D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.API\obj\Debug\net6.0\staticwebassets.development.json
@@ -63,3 +62,4 @@ D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookS
 D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.API\bin\Debug\net6.0\BookStore.Infrastructure.dll
 D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.API\bin\Debug\net6.0\BookStore.Infrastructure.pdb
 D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.API\bin\Debug\net6.0\BookStore.Domain.pdb
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src\BookStore.API\obj\Debug\net6.0\BookStore.API.MvcApplicationPartsAssemblyInfo.cs

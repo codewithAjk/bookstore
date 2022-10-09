@@ -705,32 +705,6 @@
             "rid": "win"
           }
         }
-      },
-      "BookStore.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/BookStore.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BookStore.Domain.dll": {}
-        }
-      },
-      "BookStore.Infrastructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "BookStore.Domain": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "6.0.9",
-          "Microsoft.EntityFrameworkCore.Relational": "6.0.9",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9"
-        },
-        "compile": {
-          "bin/placeholder/BookStore.Infrastructure.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BookStore.Infrastructure.dll": {}
-        }
       }
     }
   },
@@ -2077,21 +2051,10 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "BookStore.Domain/1.0.0": {
-      "type": "project",
-      "path": "../BookStore.Domain/BookStore.Domain.csproj",
-      "msbuildProject": "../BookStore.Domain/BookStore.Domain.csproj"
-    },
-    "BookStore.Infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../BookStore.Infrastructure/BookStore.Infrastructure.csproj",
-      "msbuildProject": "../BookStore.Infrastructure/BookStore.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "BookStore.Infrastructure >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.9",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.9",
@@ -2128,11 +2091,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "D:\\NareshIT Course\\HandsOn Experience\\BookStoreProjectMedium\\BookStore\\src\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj": {
-              "projectPath": "D:\\NareshIT Course\\HandsOn Experience\\BookStoreProjectMedium\\BookStore\\src\\BookStore.Infrastructure\\BookStore.Infrastructure.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

@@ -1,7 +1,7 @@
 .vscode
 .vs
-bin
-obj
+.bin
+.obj
 *.db
 
 

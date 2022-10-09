@@ -1,0 +1,15 @@
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src1\BookStore1.Infrastructure\bin\Debug\net6.0\BookStore1.Infrastructure.deps.json
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src1\BookStore1.Infrastructure\bin\Debug\net6.0\BookStore1.Infrastructure.dll
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src1\BookStore1.Infrastructure\bin\Debug\net6.0\BookStore1.Infrastructure.pdb
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src1\BookStore1.Infrastructure\obj\Debug\net6.0\BookStore1.Infrastructure.csproj.AssemblyReference.cache
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src1\BookStore1.Infrastructure\obj\Debug\net6.0\BookStore1.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src1\BookStore1.Infrastructure\obj\Debug\net6.0\BookStore1.Infrastructure.AssemblyInfoInputs.cache
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src1\BookStore1.Infrastructure\obj\Debug\net6.0\BookStore1.Infrastructure.AssemblyInfo.cs
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src1\BookStore1.Infrastructure\obj\Debug\net6.0\BookStore1.Infrastructure.csproj.CoreCompileInputs.cache
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src1\BookStore1.Infrastructure\obj\Debug\net6.0\BookStore1.Infrastructure.dll
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src1\BookStore1.Infrastructure\obj\Debug\net6.0\refint\BookStore1.Infrastructure.dll
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src1\BookStore1.Infrastructure\obj\Debug\net6.0\BookStore1.Infrastructure.pdb
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src1\BookStore1.Infrastructure\obj\Debug\net6.0\ref\BookStore1.Infrastructure.dll
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src1\BookStore1.Infrastructure\bin\Debug\net6.0\BookStore1.Domain.dll
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src1\BookStore1.Infrastructure\bin\Debug\net6.0\BookStore1.Domain.pdb
+D:\NareshIT Course\HandsOn Experience\BookStoreProjectMedium\BookStore\src1\BookStore1.Infrastructure\obj\Debug\net6.0\BookStore1.Infrastructure.csproj.CopyComplete
